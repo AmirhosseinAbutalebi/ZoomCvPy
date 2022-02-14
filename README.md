@@ -1,5 +1,5 @@
 # ZoomCvPy
-Zoom tool design with opengl in python
+Zoom tool design with opencv in python
 
 
 
