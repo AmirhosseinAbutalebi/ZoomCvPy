@@ -1,7 +1,7 @@
 # ZoomCvPy
 Zoom tool design with opencv in python<br>
 
-# requirement
+# Requirement
 `pip install opencv-python`<br>
 `pip install argparse`<br>
 
